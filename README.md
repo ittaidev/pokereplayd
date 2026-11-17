@@ -24,5 +24,3 @@ PokéReplay es un proyecto personal y no oficial.
 - Los vídeos pertenecen a sus titulares. Este sitio no copia, descarga, aloja ni redistribuye ningún episodio: solo incrusta el reproductor público de YouTube de vídeos que el canal oficial ha publicado.
 - El uso de la página es bajo la responsabilidad de quien la visita. El autor no se hace responsable del contenido de los vídeos, de cambios en la disponibilidad de YouTube, ni de cualquier reclamación derivada del uso del sitio.
 - Si un titular solicita la retirada de un enlace o de la página, se atenderá.
-
-Este repositorio y la página se mantienen para uso privado del autor.
