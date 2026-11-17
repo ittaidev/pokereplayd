@@ -14,17 +14,6 @@ La página está pensada para uso privado (por ejemplo detrás de Cloudflare Acc
 - Las temporadas se agrupan por región (Kanto, Johto, Hoenn, etc.).
 - Se puede marcar un episodio como visto y seguir donde se dejó (los datos se guardan en el navegador).
 - Modo claro y modo oscuro.
-- Las imágenes de temporada son opcionales: si se añaden como `images/S1.jpg`, `images/S2.jpg`, etc., sustituyen el número de la tarjeta.
-
-## Despliegue
-
-Sitio estático, listo para Cloudflare Pages.
-
-1. Conectar el repositorio en Cloudflare Pages.
-2. Framework preset: None.
-3. Build command: vacío.
-4. Output directory: `/` (la raíz).
-5. Activar Cloudflare Access sobre el dominio y dejar solo tu correo.
 
 ## Descargo de responsabilidad
 
