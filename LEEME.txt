@@ -1,7 +1,0 @@
-PokéReplay para Cloudflare Pages.
-
-En Cloudflare: Workers y Pages, Crear, Pages, conectar este repositorio.
-Framework preset: None. Build command: vacío. Output directory: / (la raíz).
-index.html tiene que servirse desde la raíz.
-Fotos de temporada: images/S1.jpg, images/S2.jpg, y así.
-Luego Cloudflare Access sobre el dominio, para que solo entres tú.
