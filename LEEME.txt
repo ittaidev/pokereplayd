@@ -1,0 +1,16 @@
+PokéReplay — paquete listo para subir
+
+Contenido:
+- index.html
+- favicon.svg
+- assets/  (estilos y scripts)
+- images/  (opcional: S1.jpg, S2.jpg, …)
+
+GitHub Pages (ittaidev.github.io/pokereplay/):
+  Sube el contenido de este zip a la raíz del repositorio
+  y activa Pages desde la rama main, carpeta raíz.
+
+Cloudflare Pages:
+  Workers y Pages → Crear → Pages → subir directamente.
+  Arrastra el contenido (o el zip). Framework: None.
+  Luego Cloudflare Access sobre el dominio.
